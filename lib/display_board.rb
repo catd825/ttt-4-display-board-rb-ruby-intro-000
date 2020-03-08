@@ -10,3 +10,5 @@ end
 
 
 board = ["O", "X", " ", " ", "X", " ", "X", "0", " "]
+
+display_board(board)
